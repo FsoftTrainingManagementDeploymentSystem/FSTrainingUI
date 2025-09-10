@@ -1,0 +1,14 @@
+[
+  {
+    "path": "*",
+    "element": "PageNotFound"
+  },
+  {
+    "path": "/home",
+    "redirect": "/"
+  },
+  {
+    "path": "/",
+    "element": "Home"
+  }
+]
